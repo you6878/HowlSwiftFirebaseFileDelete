@@ -1,0 +1,6 @@
+framework module Pods_HowlFireBaseLogin {
+  umbrella header "Pods-HowlFireBaseLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
